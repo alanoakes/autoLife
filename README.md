@@ -6,5 +6,5 @@ I made software to solve life's problems and it lead me to Jesus! Something to e
 (Oswald Chambers, [My Utmost For His Highest: The Burning Heart](https://utmost.org/the-burning-heart/) )"
 
 <center>
-![](https://github.com/alanoakes/autoLife/raw/master/lifeAuto.PNG)
+![AutoLife Output](https://github.com/alanoakes/autoLife/blob/master/lifeAuto.PNG)
 </center>
